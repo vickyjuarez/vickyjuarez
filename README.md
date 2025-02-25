@@ -2,9 +2,9 @@
 - 👀 I’m interested in the softwars
 - 🌱 I’m currently learning programtion
 - 💞️ I’m looking to collaborate in CECYTEM TECÁMAC
-- 📫 How to reach me 
+- 💻 
 - 😄 Pronouns: SHE
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I am very distracted
 
 <!---
 vickyjuarez/vickyjuarez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
